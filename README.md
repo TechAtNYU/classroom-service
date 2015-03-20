@@ -1,6 +1,6 @@
 # classroom-service
 
-UNFINISHED
+UNFINISHED. Need to add time filter, use promises, and much much more.
 
 Service to help find classrooms around NYU. This will be available as a simple web API with a small frontend.
 
